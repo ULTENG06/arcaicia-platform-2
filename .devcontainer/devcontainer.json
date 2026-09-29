@@ -1,0 +1,5 @@
+{
+  "name": "Arcaicia AI Orchestrator",
+  "image": "mcr.microsoft.com/devcontainers/universal:2-linux",
+  "forwardPorts": [3000, 8000, 11434]
+}
